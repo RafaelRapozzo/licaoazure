@@ -13,6 +13,12 @@
 </p>
 
 <p align="center">
+    <img alt="Preview" src="./assets/mockup/Desktop.png" >
+</p>
+
+
+
+<p align="center">
     <a href="#book-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#rocket-bibliotecas">Bibiotecas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -24,8 +30,9 @@
 **Doctor Care** é uma landing page de uma clinica medica ficticia, onde é possivel agendar uma consulta e conhecer mais sobre a clinica. O projeto foi feito durante o [NLW-Return](), Realizada pela [RocketSeat](https://rocketseat.com).
 
 ## :cloud: Deploy
-O **Doctor Care** esta hospedado na [Netlify](https://www.netlify.com)
-> https://www.netlify.com{Mudar no reasele}
+O **Doctor Care** esta hospedado na 
+[Netlify](https://gitpages.io)
+> https://swxtz.github.io/Doctor-Care/
 
 ## :rocket: Tecnologias
 A aplicação foi desenvolvida ultilizando as seguintes tecnologias:
@@ -43,6 +50,6 @@ Este projeto ultiza umas seguintes  biblioteca:
 - [Scroll-Reavel](https://scrollrevealjs.org)
 
 ## :memo: Licença
-Este projeto esta sobe a licença MIT. Consulte a [LICENÇA](){Mudar no reasele} para obter mais informações.
+Este projeto esta sobe a licença MIT. Consulte a [LICENÇA](./LICENSE) para obter mais informações.
 
 
